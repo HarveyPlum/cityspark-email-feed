@@ -9,7 +9,9 @@
  * Author: Harvey Plum
  * Author URI: https://harveyplum.com
  * GitHub Plugin URI: https://github.com/HarveyPlum/cityspark-email-feed
+ * Update URI: https://github.com/HarveyPlum/cityspark-email-feed
  * Primary Branch: main
+ * Release Asset: true
  * License: GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: cityspark-email-feed

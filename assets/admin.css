@@ -1,0 +1,37 @@
+.cityspark-email-feed-settings .form-table th {
+	width: 220px;
+}
+
+.cityspark-email-feed-settings input.regular-text {
+	max-width: 520px;
+	width: 100%;
+}
+
+.cityspark-email-feed-settings .cityspark-color-field {
+	max-width: 120px;
+}
+
+.cityspark-usage-details {
+	margin-top: 28px;
+}
+
+.cityspark-usage-card {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	margin: 0 0 18px;
+	padding: 18px 20px 20px;
+}
+
+.cityspark-usage-card h2 {
+	margin-top: 0;
+}
+
+.cityspark-usage-card code {
+	font-size: 13px;
+}
+
+.cityspark-support-footer {
+	color: #50575e;
+	font-size: 13px;
+	margin-top: 24px;
+}
